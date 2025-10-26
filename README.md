@@ -18,9 +18,9 @@ Neste processo eu aprendi:
 - ✅ Realizar um fork do repositório do desafio
 - ✅ Instalar o .NET 9
 - ✅ Instalar o Visual Studio Code, Visual Studio ou Rider
-- [ ] Configurar as variáveis de ambiente
-- [ ] Criar uma Migration usando Entity Framework
-- [ ] Gerar o banco de dados
+-  Configurar as variáveis de ambiente
+- ✅ Criar uma Migration usando Entity Framework
+- ✅ Gerar o banco de dados
 - [ ] Executar a aplicação
 - [ ] Testar a aplicação
 
