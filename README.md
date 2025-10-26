@@ -15,9 +15,9 @@ Neste processo eu aprendi:
 * ✅ Utilizar o `dotnet user-secrets`
 
 ## REGRAS DO DESAFIO
-- [*] Realizar um fork do repositório do desafio
-- [*] Instalar o .NET 9
-- [*] Instalar o Visual Studio Code, Visual Studio ou Rider
+- ✅ Realizar um fork do repositório do desafio
+- ✅ Instalar o .NET 9
+- ✅ Instalar o Visual Studio Code, Visual Studio ou Rider
 - [ ] Configurar as variáveis de ambiente
 - [ ] Criar uma Migration usando Entity Framework
 - [ ] Gerar o banco de dados
