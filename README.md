@@ -2,7 +2,7 @@
 
 ## 👻 Caça aos Bugs 2025 - Desafio 01 - Spore
 
-Oi, eu sou o [seu nome aqui] e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **Caça aos Bugs 2025**, realizado pelo [balta.io](https://balta.io). 👻
+Oi, eu sou o Luis Felipe e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **Caça aos Bugs 2025**, realizado pelo [balta.io](https://balta.io). 👻
 
 Aqui você vai encontrar projetos, exercícios e códigos que estou desenvolvendo durante o desafio. O objetivo é colocar a mão na massa, testar ideias e registrar minha evolução no mundo da tecnologia.
 
@@ -15,9 +15,9 @@ Neste processo eu aprendi:
 * ✅ Utilizar o `dotnet user-secrets`
 
 ## REGRAS DO DESAFIO
-- [ ] Realizar um fork do repositório do desafio
-- [ ] Instalar o .NET 9
-- [ ] Instalar o Visual Studio Code, Visual Studio ou Rider
+- [*] Realizar um fork do repositório do desafio
+- [*] Instalar o .NET 9
+- [*] Instalar o Visual Studio Code, Visual Studio ou Rider
 - [ ] Configurar as variáveis de ambiente
 - [ ] Criar uma Migration usando Entity Framework
 - [ ] Gerar o banco de dados
